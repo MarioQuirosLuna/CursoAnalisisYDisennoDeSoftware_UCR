@@ -1,0 +1,43 @@
+Analisis: El que y seria el problema
+
+Diseño: El como y seria la solución
+
+Análisis basado en modelos: POO, traza modelos para entender el sistema
+
+Análisis de sistemas acelerados: la mejor forma de entendernos es con 
+la creacion de prototipos, no se invierte tiempo en prototipo funcional,
+se usa algo facil y rapido de crear
+
+Fases del análisis
+Fase 1: planeamiento
+	-Estudio de factibilidad, Costos y beneficios
+		-Factibilidad Operativa
+			-Los usuarios que podran trabajar con esto es realmete mejor?
+			-Los usuarios participaran
+			-El rendimiento mejorará?
+		-Factibilidad Tecnica
+			-Si funcionara en los entornos
+			-Recursos para isntalar u operar un sistema
+		-Factibilidad Economica
+			-Los beneficios superar los costos estimados
+		-Factibilidad Tiempo
+			-Tareas y personas en el cronograma, se debe armar para que siempre se tenga algo que hacer
+			-Si el proyecto se puede hacer en un tiempo aceptable
+	-Caracteristicas del problema, indicar las causas.
+	-Se debe profundizar en cada causa y ver que lo produce
+	-Problema principal -> causas -> motivo de la causa -> solución
+	-Fortalezas, Oportunidades, Debilidades, Amenazas de la empresa
+F2: Análisis
+	-Se valida con el cliente
+F3: Diseño
+	-
+F4: Implementación
+	-Creacion del sistema
+	-Llevarlo a las pruebas
+F5: Soporte
+	-Mantenimiento
+	-Se crean cambio o mejoras minimas
+
+Modelado de negocio: Permite capturar el esquema general y procedimientos del negocio
+Modelado estatico: Clases, atributos y como se relacionan
+Modelado dinamico: Se simula la ejecucion del sistema
